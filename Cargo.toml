@@ -5,7 +5,7 @@ edition = "2021"
 license = "MIT OR Apache-2.0"
 description = "A modern Rust client library for interacting with Squads v4 multisig protocol on Solana"
 homepage = "https://squads.so"
-repository = "https://github.com/squads-protocol/v4"
+repository = "https://github.com/hogyzen12/squads-v4-client-v3"
 keywords = ["solana", "multisig", "squads", "blockchain"]
 
 [dependencies]
